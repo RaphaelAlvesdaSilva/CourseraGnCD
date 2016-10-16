@@ -8,7 +8,8 @@ Codebook for the variables at "tidyData.txt";
 
 * personId : The ID of person who carried the test or train data
 * Activity - Activity performed when retriving the data
-* All the following variables are the feedback from the activity of each person, in the X, Y and Z axles *
+* All the following variables are the feedback from the activity of each person, in the X, Y and Z axles 
+
 tBodyAccMeanX
 ; tBodyAccMeanY
 ; tBodyAccMeanZ
